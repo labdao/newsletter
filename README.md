@@ -29,7 +29,7 @@ This is the repository we use to keep track of all newsletters written and distr
 Generally we recommend taking a look at past newsletters to get a sense for the length, style and formatting.
 * We are actively promoting all our DAO members for their work (except Niklas)
 * We consider that non-DAO members will read this newsletter, especially more senior scientists that are curious about the project but not curious enough to get onto a chaotic discord.
-* We think of the newsletter not as an activity but as a directed task with a goal. The goal is to present our activities so that potential community members are interested to further engage with the project. 
+* We think of the newsletter as a directed task with a goal. The goal is to present our activities so that potential community members are interested to further engage with the project. 
 * We put news around technology and science in the spotlight. Updates around new tools and scientific projects are generally more irregularly posted. When they are announced, we make sure they are in the spotlight.
 * We strive to avoid hyped up language. While web3 and biotech are very exciting fields, and the combination of the two is **extremely** exciting, we stay rooted in reality and generally avoid words such as "fearless", "very", "exciting", "amazing". 
 
